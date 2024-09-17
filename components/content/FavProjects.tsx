@@ -79,11 +79,11 @@ const Card = ({ image, title, category, repo, link }: CardProps) => {
 const favProjects = [
   {
     image:
-      'https://cdn.sanity.io/images/jqaxrty6/production/587bf66c35c35c26dc6c20d85e9166d236227e29-1440x806.png',
-    title: 'MapsApp',
-    category: 'React - Context - TypeScript - CSS - Mapbox',
-    repo: 'https://github.com/jeandv/maps-app',
-    link: 'https://mapsapp.vercel.app'
+      'https://imgur.com/a/wNSMBbF',
+    title: 'Platform ZISWAF - MITRA ZAKAT',
+    category: 'Angular - PrimeNG - Go - MySQL',
+    repo: '#',
+    link: 'https://mitrazakat.id/berbagi/C3PI2'
   },
   // {
   //   image:
