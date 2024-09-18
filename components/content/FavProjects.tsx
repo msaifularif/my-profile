@@ -78,14 +78,16 @@ const Card = ({ image, title, category, repo, link }: CardProps) => {
 
 const favProjects = [
   {
-    image: 'https://imgur.com/a/wNSMBbF',
+    image: 'https://i.imgur.com/eoLsnMs.png',
+    //imgur - https://imgur.com/a/wNSMBbF
     title: 'Platform ZISWAF - MITRA ZAKAT',
     category: 'Angular - PrimeNG - Go - MySQL',
     repo: '#',
     link: 'https://mitrazakat.id/berbagi/C3PI2'
   },
   {
-    image: 'https://imgur.com/a/2VctUGY',
+    image: 'https://i.imgur.com/S94v7NU.png',
+    //imgur - https://imgur.com/a/2VctUGY
     title: 'Company Profile - INALEAD',
     category: 'wordpress',
     repo: '#',
