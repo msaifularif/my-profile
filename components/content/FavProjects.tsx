@@ -78,21 +78,19 @@ const Card = ({ image, title, category, repo, link }: CardProps) => {
 
 const favProjects = [
   {
-    image:
-      'https://imgur.com/a/wNSMBbF',
+    image: 'https://imgur.com/a/wNSMBbF',
     title: 'Platform ZISWAF - MITRA ZAKAT',
     category: 'Angular - PrimeNG - Go - MySQL',
     repo: '#',
     link: 'https://mitrazakat.id/berbagi/C3PI2'
   },
-  // {
-  //   image:
-  //     'https://cdn.sanity.io/images/jqaxrty6/production/587bf66c35c35c26dc6c20d85e9166d236227e29-1440x806.png',
-  //   title: 'MapsApp',
-  //   category: 'React - Context - TypeScript - CSS - Mapbox',
-  //   repo: 'https://github.com/jeandv/maps-app',
-  //   link: 'https://mapsapp.vercel.app'
-  // },
+  {
+    image: 'https://imgur.com/a/2VctUGY',
+    title: 'Company Profile - INALEAD',
+    category: 'wordpress',
+    repo: '#',
+    link: 'https://inalead.id/'
+  },
   // {
   //   image:
   //     'https://cdn.sanity.io/images/jqaxrty6/production/9d452c28dc252302b90e6e2408b81ce3ed111957-1440x803.png',
